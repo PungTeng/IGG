@@ -1,2 +1,2 @@
 # IGM
-The official code for 「IGM: Improving Graph Matching for Domain Adaptive Object Detection」。
+The official code for 「IGM: Improving Graph Matching for Domain Adaptive Object Detection」.
