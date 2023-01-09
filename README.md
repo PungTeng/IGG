@@ -1,2 +1,2 @@
 # IGG
-The official code for 「IGM: Improving Graph Geneartion for Domain Adaptive Object Detection」.
+The official code for 「IGM: Improved Graph Geneartion for Domain Adaptive Object Detection」.
